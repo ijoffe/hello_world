@@ -1,14 +1,14 @@
 # Hello, World!
 
 ## Table of Contents
-* [General Info](#general-info)
+* [General Information](#general-information)
 * [Description](#description)
 * [Background](#background)
 * [Technologies](#technologies)
 * [Instructions](#instructions)
 * [Example Usage](#example-usage)
 
-## General Info
+## General Information
 This repository contains the code to print `Hello, World!` to standard output in many languages. All code was created by me, Isaac Joffe, in January of 2022.
 
 ## Description
