@@ -1,3 +1,27 @@
-# hello-world
-My first git repository.
-Learning the basics of using git and GitHub.
+# Hello, World!
+
+## Table of Contents
+* [General Info](#general-info)
+* [Description](#description)
+* [Background](#background)
+* [Technologies](#technologies)
+* [Instructions](#instructions)
+* [Example Usage](#example-usage)
+
+## General Info
+
+
+## Description
+
+
+## Background
+
+
+## Technologies
+
+
+## Instructions
+
+
+## Example Usage
+
