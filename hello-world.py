@@ -1,2 +1,3 @@
-# Print the string literal "hello world" to stdout
-print("hello world")
+# Made by Isaac Joffe
+
+print("Hello, World!")
