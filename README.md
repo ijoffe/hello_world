@@ -24,19 +24,16 @@ The code contained is written across many languages, currently including Python 
 All versions of the program can be simply called and ran from a terminal or command window for that language.
 
 ## Example Usage
-For the Python version:
+For the Python version (while inside a terminal window):
 ```
-# inside a python interpreter
 python3 hello-world.py
 ```
-For the C++ version:
+For the C++ version (while inside a terminal window):
 ```
-// inside a terminal window
 g++ hello-world.cpp -o hello-world -std=C++11
 ./hello-world
 ```
-For the MATLAB version:
+For the MATLAB version (while inside the MATLAB development environment):
 ```
-% inside the MATLAB development environment
 run hello-world.m
 ```
